@@ -1,4 +1,4 @@
-xx/**
+/**
  * Exercise (Chapter 1: Introduction to Java) — arrays and for-loops.
  *
  * Your task is to complete the oddSum method below.
