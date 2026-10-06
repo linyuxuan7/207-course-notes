@@ -32,7 +32,7 @@ public class OddSum {
         //       You can index into arrays as we do in Python
         //       (e.g. arr[i] gives you the item at index i).
         int total = 0
-        for (int i = 1, i < arr.lengh, i += 2){
+        for (int i = 1, i < arr.length, i += 2){
             total += arr[i];
         }
         return total;
